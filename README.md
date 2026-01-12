@@ -1,4 +1,4 @@
-# Drift-Aware Content ML Ops System
+# Content-intelligence-mlops
 
 This project implements a multi-agent machine learning system that predicts content traffic, detects performance drift, and retrains models automatically when traffic patterns change.
 
